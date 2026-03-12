@@ -1,0 +1,14 @@
+# robots.txt — sriniwastiwari.com
+# Sriniwas Tiwari | Best Chemistry Teacher in Lucknow
+
+User-agent: *
+Allow: /
+
+# Block nothing — full site should be indexed
+Disallow:
+
+# Sitemap location
+Sitemap: https://sriniwastiwari.com/sitemap.xml
+
+# Crawl delay (optional, respectful to crawlers)
+Crawl-delay: 5
